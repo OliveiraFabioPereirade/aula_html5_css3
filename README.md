@@ -11,7 +11,7 @@ Oferecido por:
 
 Ministrado por:
 
-### Gabriel Galiani
+### Rafael Galleani
 
 ---
 
