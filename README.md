@@ -3,7 +3,7 @@ Material desenvolvido durante o curso:
 
 ### Programação para internet com HTML5 e CSS3
 
-![](https://i.imgur.com/Q27WjgZ.png)
+![](https://i.imgur.com/Q27WjgZ.png?1)
 
 Oferecido por: 
 
